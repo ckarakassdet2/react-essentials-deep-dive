@@ -32,7 +32,7 @@ export default function Examples() {
     return (
         <Section title="Examples" id="examples">
             <Tabs 
-                ButtonsContainer="menu" // use string names of the element you want to use, not element itself
+                //ButtonsContainer="menu" // use string names of the element you want to use, not element itself
                 buttons={
                 <>
                 <TabButton
